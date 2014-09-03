@@ -1,1 +1,1 @@
-## Using Rest API to automate form submission to Google Spreadsheet and Wordpress
+## Using Rest API to Automate Form Submission to Google Spreadsheet and Wordpress
